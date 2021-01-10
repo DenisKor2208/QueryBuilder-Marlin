@@ -1,0 +1,6 @@
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
+index.php
+init.php
