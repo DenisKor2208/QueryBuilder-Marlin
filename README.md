@@ -2,7 +2,9 @@
 Располагаете файл QueryBuilder.php с классом QueryBuilder в нужном месте вашего проекта.
 
 Подключаете файл QueryBuilder.php. Например:
+```php
 include_once __DIR__ . '/../Components/QueryBuilder/QueryBuilder.php ';
+```
 
 Доступные методы класса Validate:
   + getAll($table); - получить все записи из таблицы
