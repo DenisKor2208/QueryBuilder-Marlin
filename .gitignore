@@ -3,4 +3,5 @@
 .vscode/
 *.sw*
 index.php
-init.php
+*.docx
+*.txt
